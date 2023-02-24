@@ -1,0 +1,50 @@
+{
+  "tableData": [
+    {
+      "id": "1",
+      "name": "陈瑞灏",
+      "username": "0"
+    },
+    {
+      "id": "姓名q",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名w",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名e",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名r",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名",
+      "name": "身份证",
+      "username": "性别"
+    },
+    {
+      "id": "姓名",
+      "name": "身份证",
+      "username": "性别"
+    }
+  ]
+}
+

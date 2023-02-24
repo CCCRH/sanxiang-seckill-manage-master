@@ -1,0 +1,14 @@
+{
+  "tableData": [{
+    "productStoreName": "123",
+    "productImage": "123",
+    "productPrice": "123",
+    "productStock": "123",
+    "productStoreInfo": "123",
+    "seckillCreationTime": "123",
+    "seckillStartTime": "123",
+    "seckillStopTime": "123",
+    "productId": "123",
+    "seckillNumber": "123"
+  }]
+}
